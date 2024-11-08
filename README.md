@@ -1,16 +1,23 @@
-# flutter_firebase
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
+<div id="badges">
+  <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@KongRuksiamOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+    <a href="https://www.udemy.com/user/kong-ruksiam/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@kongruksiam" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/kongruksiamstudio" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@kongruksiamstudio" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
+</div>
